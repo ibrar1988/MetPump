@@ -1,0 +1,7 @@
+#Tue Aug 14 17:58:35 IST 2018
+base.0=C\:\\Users\\Ibrar\\Desktop\\MetPump\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_68cb483a3fb53f8af8b42f40e2072e66dca45d5b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ibrar\\Desktop\\MetPump\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1a89ee5a9343736dcedd17cad337dae7dec41248\\classes.dex
+base.1=C\:\\Users\\Ibrar\\Desktop\\MetPump\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1a89ee5a9343736dcedd17cad337dae7dec41248
+file.0=C\:\\Users\\Ibrar\\Desktop\\MetPump\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_68cb483a3fb53f8af8b42f40e2072e66dca45d5b\\classes.dex

@@ -1,0 +1,515 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:3:5-32
+	android:versionName
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	android:versionCode
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:3:33-91
+supports-screens
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:5-191
+	android:largeScreens
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:49-76
+	android:smallScreens
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:132-159
+	android:normalScreens
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:160-188
+	android:resizeable
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:106-131
+	android:anyDensity
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:4:23-48
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Ibrar\.android\build-cache\13ba39b4e24d571379298d65e7bcd37cefc23bd5\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\0070d6502edbc7df6d0606965d87afd39acf9491\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Ibrar\.android\build-cache\7116a2f3708ced7cbdd808f93c9c1cfd93f4b955\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Ibrar\.android\build-cache\50215e6b31f2af7d55bbd42ad952f734b063ae31\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\2d87937cc3d9ed5554c95606b6c95c50187f9b7b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Ibrar\.android\build-cache\7116a2f3708ced7cbdd808f93c9c1cfd93f4b955\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Ibrar\.android\build-cache\ba9de7347fe2792508683789c865a4f2eff72ca6\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\2d87937cc3d9ed5554c95606b6c95c50187f9b7b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:11:22-64
+uses-feature#0x00020000
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:12:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Ibrar\.android\build-cache\7116a2f3708ced7cbdd808f93c9c1cfd93f4b955\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:12:19-51
+	android:required
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:12:52-75
+application
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:13:5-34:19
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Ibrar\.android\build-cache\07ff264ac2ce6dc997eb702edde7f554e5684a22\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Ibrar\.android\build-cache\13ba39b4e24d571379298d65e7bcd37cefc23bd5\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\0070d6502edbc7df6d0606965d87afd39acf9491\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Ibrar\.android\build-cache\dbad618fc841330f4f842c3cca01481f8f35ce91\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Ibrar\.android\build-cache\f47dfe9b92022ea557a2c4736516bd74e1cd982b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\9ee42201b456b01de01014901b891a5bc46644a2\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Ibrar\.android\build-cache\1c2073f2086d09d5def91d71c66808f0cadd4cc4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Ibrar\.android\build-cache\0b7d7893979c22f04d63b2b37e27ad4cc1444575\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Ibrar\.android\build-cache\2b86d8579a31ce57bc0d2781647559a48638b3f3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Ibrar\.android\build-cache\e7408a454bac8e4ba6a10bb7b268e034f3ae8f33\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Ibrar\.android\build-cache\c4d36b41217e7aad72388eb847e81019b41853f7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Ibrar\.android\build-cache\b07bb2d077ed594e4cf29f2cbea7bd6986f57197\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Ibrar\.android\build-cache\7116a2f3708ced7cbdd808f93c9c1cfd93f4b955\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Ibrar\.android\build-cache\50b302ca0917edf50b943d09a90b4b0592375a28\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Ibrar\.android\build-cache\fdab8a51baead56b2fc3477abbf79f6e12a3344e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Ibrar\.android\build-cache\64e2972a78c6d764c5a5b801e822a96275a25425\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Ibrar\.android\build-cache\ba9de7347fe2792508683789c865a4f2eff72ca6\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Ibrar\.android\build-cache\dd4ba27d676f2f5cdee74d03daf2e09cf15ec385\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Ibrar\.android\build-cache\6d401e5dab1b2d73110b3d0842d452cbac1f030d\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Ibrar\.android\build-cache\2c2cade394ea42e64f2d69ad70bd7ea65f11bfac\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Ibrar\.android\build-cache\50215e6b31f2af7d55bbd42ad952f734b063ae31\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Ibrar\.android\build-cache\4959d22d4847d5fb256377e3555705f8ab196fd3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Ibrar\.android\build-cache\ae893c0d89d4c8232d033ff80da1ec2b1972dc83\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\2d87937cc3d9ed5554c95606b6c95c50187f9b7b\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Ibrar\.android\build-cache\c81f19d0d8f089e039ef1025c58380d91ea2e300\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Ibrar\.android\build-cache\24dc8b028a5fc40cf1749886242ce3475ea3be37\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Ibrar\.android\build-cache\cc4c573d9cce05fa59711a09b03ac8075c7ec086\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Ibrar\.android\build-cache\e4c19a4bdfc13fc6add73c1372ad54e3709b2e9c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Ibrar\.android\build-cache\53ec3c5d409ba9b88df532533043632fe5dc0bb4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Ibrar\.android\build-cache\e843ca22c835fe748061f77c0277306f4e15288f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Ibrar\.android\build-cache\8b37e9881272066482a79acf56c94677b0c57dd3\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ibrar\.android\build-cache\5f004d57e2898eea63091ffe2af508dd508d9128\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ibrar\.android\build-cache\d3013a9e62b12daf065f439704b05ecba5ea67db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ibrar\.android\build-cache\f0c3e9e6a8357bcd8130f2117d6eeb4a29489071\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ibrar\.android\build-cache\0da52afde4f31813c20d0491028c5a6f213c616f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ibrar\.android\build-cache\f502249c92c83e4876714934083f54a152219a72\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ibrar\.android\build-cache\487f14cb7b17d5d8ef5a74106bcc7c322891c969\output\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Ibrar\.android\build-cache\8751da78644d21f253bc7625700def9b55cf129d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Ibrar\.android\build-cache\a0c3be087a551e5b89c4c0e0453986a6d42dd980\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Ibrar\.android\build-cache\039c2f7dcb17374eef6d140cc248ebdd5f1a866c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Ibrar\.android\build-cache\ad182c6d4f68c2d715432e029e96de4c859f0b61\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Ibrar\.android\build-cache\6b5d6b4cb8546bac9380af1bf19c129dd3387fd7\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Ibrar\.android\build-cache\7deb9755e186ae67a3714bbc267d78fd25ffe978\output\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:13:81-113
+	android:supportsRtl
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:13:114-140
+	android:hardwareAccelerated
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:13:18-52
+	android:icon
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:13:53-80
+activity#com.vensi.metpump.MainActivity
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:9-19:20
+	android:label
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:97-134
+	android:launchMode
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:257-299
+	android:configChanges
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:19-96
+	android:theme
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:194-256
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:14:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:15:13-18:29
+	android:label
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:15:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:17:27-74
+service#org.apache.cordova.firebase.FirebasePluginMessagingService
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:21:9-25:19
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:21:18-91
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:22:13-24:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:23:17-78
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:23:25-75
+service#org.apache.cordova.firebase.FirebasePluginInstanceIDService
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:27:9-31:19
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:27:18-92
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:28:13-30:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:29:17-80
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:29:25-77
+receiver#org.apache.cordova.firebase.OnNotificationOpenReceiver
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:33:9-91
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:33:19-88
+uses-sdk
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:35:5-74
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Ibrar\.android\build-cache\07ff264ac2ce6dc997eb702edde7f554e5684a22\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Ibrar\.android\build-cache\13ba39b4e24d571379298d65e7bcd37cefc23bd5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\0070d6502edbc7df6d0606965d87afd39acf9491\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Ibrar\.android\build-cache\dbad618fc841330f4f842c3cca01481f8f35ce91\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Ibrar\.android\build-cache\f47dfe9b92022ea557a2c4736516bd74e1cd982b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\9ee42201b456b01de01014901b891a5bc46644a2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Ibrar\.android\build-cache\1c2073f2086d09d5def91d71c66808f0cadd4cc4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Ibrar\.android\build-cache\0b7d7893979c22f04d63b2b37e27ad4cc1444575\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Ibrar\.android\build-cache\2b86d8579a31ce57bc0d2781647559a48638b3f3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Ibrar\.android\build-cache\e7408a454bac8e4ba6a10bb7b268e034f3ae8f33\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Ibrar\.android\build-cache\c4d36b41217e7aad72388eb847e81019b41853f7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Ibrar\.android\build-cache\b07bb2d077ed594e4cf29f2cbea7bd6986f57197\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Ibrar\.android\build-cache\7116a2f3708ced7cbdd808f93c9c1cfd93f4b955\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Ibrar\.android\build-cache\50b302ca0917edf50b943d09a90b4b0592375a28\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Ibrar\.android\build-cache\fdab8a51baead56b2fc3477abbf79f6e12a3344e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Ibrar\.android\build-cache\64e2972a78c6d764c5a5b801e822a96275a25425\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Ibrar\.android\build-cache\ba9de7347fe2792508683789c865a4f2eff72ca6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Ibrar\.android\build-cache\dd4ba27d676f2f5cdee74d03daf2e09cf15ec385\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Ibrar\.android\build-cache\6d401e5dab1b2d73110b3d0842d452cbac1f030d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Ibrar\.android\build-cache\2c2cade394ea42e64f2d69ad70bd7ea65f11bfac\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Ibrar\.android\build-cache\50215e6b31f2af7d55bbd42ad952f734b063ae31\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Ibrar\.android\build-cache\4959d22d4847d5fb256377e3555705f8ab196fd3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Ibrar\.android\build-cache\ae893c0d89d4c8232d033ff80da1ec2b1972dc83\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.2] C:\Users\Ibrar\.android\build-cache\81838bb23886ed98f0a08abed1c9cb850cff5d1c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\2d87937cc3d9ed5554c95606b6c95c50187f9b7b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Ibrar\.android\build-cache\c81f19d0d8f089e039ef1025c58380d91ea2e300\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Ibrar\.android\build-cache\24dc8b028a5fc40cf1749886242ce3475ea3be37\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Ibrar\.android\build-cache\cc4c573d9cce05fa59711a09b03ac8075c7ec086\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Ibrar\.android\build-cache\e4c19a4bdfc13fc6add73c1372ad54e3709b2e9c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Ibrar\.android\build-cache\53ec3c5d409ba9b88df532533043632fe5dc0bb4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Ibrar\.android\build-cache\e843ca22c835fe748061f77c0277306f4e15288f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Ibrar\.android\build-cache\8b37e9881272066482a79acf56c94677b0c57dd3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ibrar\.android\build-cache\5f004d57e2898eea63091ffe2af508dd508d9128\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ibrar\.android\build-cache\d3013a9e62b12daf065f439704b05ecba5ea67db\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ibrar\.android\build-cache\f0c3e9e6a8357bcd8130f2117d6eeb4a29489071\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ibrar\.android\build-cache\0da52afde4f31813c20d0491028c5a6f213c616f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ibrar\.android\build-cache\f502249c92c83e4876714934083f54a152219a72\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ibrar\.android\build-cache\487f14cb7b17d5d8ef5a74106bcc7c322891c969\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Ibrar\.android\build-cache\8751da78644d21f253bc7625700def9b55cf129d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Ibrar\.android\build-cache\a0c3be087a551e5b89c4c0e0453986a6d42dd980\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Ibrar\.android\build-cache\039c2f7dcb17374eef6d140cc248ebdd5f1a866c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Ibrar\.android\build-cache\ad182c6d4f68c2d715432e029e96de4c859f0b61\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Ibrar\.android\build-cache\6b5d6b4cb8546bac9380af1bf19c129dd3387fd7\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Ibrar\.android\build-cache\7deb9755e186ae67a3714bbc267d78fd25ffe978\output\AndroidManifest.xml:4:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:7:5-9:41
+MERGED from [org.apache.cordova:CordovaLib:7.0.0:release] C:\Users\Ibrar\Desktop\MetPump\platforms\android\CordovaLib\build\intermediates\bundles\release\AndroidManifest.xml:25:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Ibrar\.android\build-cache\5f004d57e2898eea63091ffe2af508dd508d9128\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:35:42-71
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:35:15-41
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:36:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\2d87937cc3d9ed5554c95606b6c95c50187f9b7b\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Ibrar\.android\build-cache\13ba39b4e24d571379298d65e7bcd37cefc23bd5\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\0070d6502edbc7df6d0606965d87afd39acf9491\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Ibrar\.android\build-cache\13ba39b4e24d571379298d65e7bcd37cefc23bd5\output\AndroidManifest.xml:20:22-79
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:27:9-28:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:27:85-107
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:27:108-132
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:27:19-84
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:29:9-132
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:29:83-105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:29:106-130
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:29:18-82
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:30:9-192
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:30:143-165
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:30:166-190
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:30:86-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\7c57dccde16a69adcc41bf85a46d380bf900d694\output\AndroidManifest.xml:30:18-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Ibrar\.android\build-cache\6d401e5dab1b2d73110b3d0842d452cbac1f030d\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Ibrar\.android\build-cache\6d401e5dab1b2d73110b3d0842d452cbac1f030d\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Ibrar\.android\build-cache\6d401e5dab1b2d73110b3d0842d452cbac1f030d\output\AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Ibrar\.android\build-cache\c81f19d0d8f089e039ef1025c58380d91ea2e300\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Ibrar\.android\build-cache\c81f19d0d8f089e039ef1025c58380d91ea2e300\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Ibrar\.android\build-cache\c81f19d0d8f089e039ef1025c58380d91ea2e300\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Ibrar\.android\build-cache\c81f19d0d8f089e039ef1025c58380d91ea2e300\output\AndroidManifest.xml:19:19-85
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:27:23-69
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Ibrar\.android\build-cache\6126f4b4368e13947d22c513a2ccb8fa3eaa904b\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Ibrar\.android\build-cache\5b9ddf620b1f2766d558dbc23fc70c34bf4b270f\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Ibrar\.android\build-cache\3113ab6544b4db6a7a980d2893e9d70e1f9469ab\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:24:17-71
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:26:22-76
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:33:27-58
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Ibrar\.android\build-cache\e351317108243dbb17c41eeadbdf8bfaa8a37356\output\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:6:19-78
+		INJECTED from C:\Users\Ibrar\Desktop\MetPump\platforms\android\app\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Ibrar\.android\build-cache\c2e5abff8d94d054483d2a81ce148df0a2594042\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Ibrar\.android\build-cache\8b37e9881272066482a79acf56c94677b0c57dd3\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Ibrar\.android\build-cache\8b37e9881272066482a79acf56c94677b0c57dd3\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Ibrar\.android\build-cache\8b37e9881272066482a79acf56c94677b0c57dd3\output\AndroidManifest.xml:20:20-65
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Ibrar\.android\build-cache\0ef496f117c6e689539b1e8407f1aca4a8216b77\output\AndroidManifest.xml:50:22-86

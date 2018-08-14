@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269664431277",
+    "firebase_url": "https://metpump-751f8.firebaseio.com",
+    "project_id": "metpump-751f8",
+    "storage_bucket": "metpump-751f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269664431277:android:ddbdba818f34efc0",
+        "android_client_info": {
+          "package_name": "com.vensi.metpump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269664431277-co9n3rb7bch53vhu361abbfgfk03h2ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vensi.metpump",
+            "certificate_hash": "261d0162f7478a4a333d5dca79aa80decb05f6d9"
+          }
+        },
+        {
+          "client_id": "269664431277-qajfbneeu68bs47k3avo00b2s80i9i43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYeOBN5bVzB8iDICEao1HWbqeYuMP2yFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269664431277-qajfbneeu68bs47k3avo00b2s80i9i43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

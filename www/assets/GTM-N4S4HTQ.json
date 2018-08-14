@@ -1,0 +1,50 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2018-08-14 12:12:18",
+    "containerVersion": {
+        "path": "accounts/3841803778/containers/9665713/versions/0",
+        "accountId": "3841803778",
+        "containerId": "9665713",
+        "containerVersionId": "0",
+        "container": {
+            "path": "accounts/3841803778/containers/9665713",
+            "accountId": "3841803778",
+            "containerId": "9665713",
+            "name": "com.vensi.metpump",
+            "publicId": "GTM-N4S4HTQ",
+            "usageContext": [
+                "ANDROID_SDK_5"
+            ],
+            "fingerprint": "1534248144537",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/3841803778/containers/9665713/workspaces?apiLink=container"
+        },
+        "builtInVariable": [
+            {
+                "accountId": "3841803778",
+                "containerId": "9665713",
+                "type": "EVENT_NAME",
+                "name": "Event Name"
+            },
+            {
+                "accountId": "3841803778",
+                "containerId": "9665713",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "3841803778",
+                "containerId": "9665713",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "3841803778",
+                "containerId": "9665713",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            }
+        ],
+        "fingerprint": "0",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/3841803778/containers/9665713/versions/0?apiLink=version"
+    }
+}
